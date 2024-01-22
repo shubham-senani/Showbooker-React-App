@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #fafdff;
+  font-family: "Montserrat", helvetica, arial, sans-serif;
+  color: #000000;
+  line-height: 1.5;
+  overflow-x: hidden;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
